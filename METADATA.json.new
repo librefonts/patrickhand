@@ -1,0 +1,42 @@
+{
+  "name": "Patrick Hand",
+  "designer": "Patrick Wagesreiter",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Handwriting",
+  "size": 54194,
+  "fonts": [
+    {
+      "name": "Patrick Hand",
+      "style": "normal",
+      "weight": 400,
+      "filename": "PatrickHand-Regular.ttf",
+      "postScriptName": "PatrickHand-Regular",
+      "fullName": "Patrick Hand",
+      "copyright": "Copyright (c) 2012 Patrick Wagesreiter (mail@patrickwagesreiter.at)"
+    },
+    {
+      "name": "Patrick Hand",
+      "style": "normal",
+      "weight": 400,
+      "filename": "PatrickHand-Regular_prettfautohint.ttf",
+      "postScriptName": "PatrickHand-Regular",
+      "fullName": "Patrick Hand",
+      "copyright": "Copyright (c) 2012 Patrick Wagesreiter (mail@patrickwagesreiter.at)"
+    },
+    {
+      "name": "Patrick Hand",
+      "style": "normal",
+      "weight": 400,
+      "filename": "PatrickHand-Regular-TTF.ttf",
+      "postScriptName": "PatrickHand-Regular",
+      "fullName": "Patrick Hand",
+      "copyright": "Copyright (c) 2012 Patrick Wagesreiter (mail@patrickwagesreiter.at)"
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2011-07-06"
+}
